@@ -1,0 +1,22 @@
+{
+  "name": "allex_internalpostlowlevellib",
+  "version": "1.0.0",
+  "description": "Lib for simulating post request",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/internalpost.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/internalpost/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/internalpost#readme"
+}
