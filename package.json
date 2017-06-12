@@ -1,22 +1,21 @@
 {
-  "name": "allex_internalpostlowlevellib",
+  "name": "allex_internalpostlib",
   "version": "1.0.0",
-  "description": "Lib for simulating post request",
+  "description": "AllexJS library for creating POST requests in a GET form",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allex-lowlevel-libs/internalpost.git"
+    "url": "git@gitlab.hers.rs:allex_libs/internalpost.git"
   },
   "keywords": [
-    "ecosystem:AllexJS"
+    "Ecosystem:AllexJS"
   ],
   "author": "HERS Belgrade",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/allex-lowlevel-libs/internalpost/issues"
-  },
-  "homepage": "https://github.com/allex-lowlevel-libs/internalpost#readme"
+  "license": "ISC"
 }
