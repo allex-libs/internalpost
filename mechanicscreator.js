@@ -54,7 +54,6 @@ function createMechanics(execlib, leveldblib) {
     var nowTime = now.getTime();
     if (nowTime - timestamp > this.urlLifetime){
       this.keysForDelete.push(key);
-      console.log('PREVISE STAR, stavio ga u niz za brisanje',this.keysForDelete);
     }
   };
 
